@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "ISID": "0001",
+        "firstName": "Alex",
+        "registrationDate": "2024-01-06"
+      },
+      {
+        "ISID": "0002",
+        "firstName": "Mark",
+        "registrationDate": "2024-02-10"
+      },
+      {
+        "ISID": "003",
+        "firstName": "Diana",
+        "registrationDate": "2024-03-22"
+      },
+      {
+        "ISID": "004",
+        "firstName": "David",
+        "registrationDate": "2024-04-05"
+      },
+      {
+        "ISID": "005",
+        "firstName": "Daniel",
+        "registrationDate": "2024-05-18"
+      }
+    ]
+  }
+  
